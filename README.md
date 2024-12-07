@@ -19,9 +19,9 @@ Throughout the project's development, I - myself debated certain design choices 
 Another design choice I considered was a data structure to represent the Sudoku grid. I decided to use a 2D list to represent the grid because it provides a simple and intuitive representation of the Sudoku board. Additionally, using lists allows for easy indexing and manipulation of cells during the solving process.
 
 
-I also thought about the naming convention and organization of functions in the project.py file to ensure clarity and maintainability. I've chosen descriptive feature names to clearly demonstrate their purpose and function. Additionally, I've organized features logically, grouped related features together, and used comments to document their purpose and usage
+I also thought about the naming convention and organization of functions in the project.py file to ensure clarity and maintainability. I've chosen descriptive feature names to clearly demonstrate their purpose and function. Additionally, I've organized features logically, grouped related features together, and used comments to document their purpose and usage.
 
 
 In summary, my Sudoku Solver project is a Python program designed to solve Sudoku puzzles efficiently using a backtracking algorithm. The program consists of a main single file, project.py, which contains the solution algorithm implementation and related helper functions. Through thoughtful design choices and careful consideration of algorithmic efficiency and code readability, I have created a fully function and efficient Sudoku Solver, capable of solving puzzles. There are different levels of difficulty.
 
-*Thanks for reading my description*
+*Thanks for reading my description.*
